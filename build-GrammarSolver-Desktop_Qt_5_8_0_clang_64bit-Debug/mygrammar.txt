@@ -1,0 +1,11 @@
+<s>::=<np> <vp>|<np> <vp> <adv>
+<np>::=<dp> <adjp> <n>|<pn>|<dp> <n>|<adjp> <pn>
+<dp>::=the|a
+<adjp>::=<adj>|<adj> <adjp>
+<adj>::=overweight|smelly|lackluster|underfed|overworked
+<n>::=werewolf|cat|temple|surrogate|stranger|orphan|gangrene
+<pn>::=Rachel|Phoebe|Chandler|Ross|Monica|Joey
+<vp>::=<tv> <np>|<iv>
+<tv>::=abandoned|married|punched|serenaded
+<iv>::=died|oinked|chortled|fled
+<adv>::=happily|gladly|radiply
